@@ -1,4 +1,7 @@
-## Hi there 👋
+## I'm formally a physicist and engineer. But what I truly identify with is problem-solving. I LOVE complex technical challenges, particularly in particle accelerator systems, and high-voltage instrumentation. With 10 years of hands-on experience at Jefferson Lab, I specialize in the design and optimization of high-voltage components (e.g., photo guns, HV test stands, Wien filters) for beamline applications.
+
+My work combines simulation, prototyping, and testing to deliver innovative, reliable solutions for next-generation accelerator infrastructure. I’m also a named inventor on a patented design, where we mushed together an ion pump and a Wien filter.
+All this time I've been benefiting from places like Github and such so I will put here all my major Python projects so my colleagues at JLab and around the world can re-use them. Most of the stuff is pretty basic data filtering, but there are some cool tricks that might help the community that I could not find anywhere (before LLMs lol).
 
 <!--
 **Gabriel-AccPhys/Gabriel-AccPhys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
